@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bc80901-70a7-4cff-9b80-272ff5e4c585" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/React-Redux.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/loose-envify" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/js-tokens/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/loose-envify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/loose-envify/replace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/dist/redux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/dist/redux.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/es/redux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/es/redux.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/lib/redux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/src/applyMiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/src/bindActionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/src/combineReducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/src/compose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/src/createStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/src/utils/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/src/utils/isPlainObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/redux/src/utils/warning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/symbol-observable/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/symbol-observable/es/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/symbol-observable/es/ponyfill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/symbol-observable/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/symbol-observable/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/symbol-observable/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/symbol-observable/lib/ponyfill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/symbol-observable/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/symbol-observable/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/symbol-observable/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1irSAU2OcECmrnEKueJXNVYSMIG" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bc80901-70a7-4cff-9b80-272ff5e4c585" name="Default Changelist" comment="" />
+      <created>1602664074885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602664074885</updated>
+      <workItem from="1602664076063" duration="851000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
