@@ -6,3 +6,21 @@ function buyCake() {
         info: "First redux action"
     };
 }
+
+// (previousState, action) => newState
+
+const initialState = {
+    numOfCakes: 10
+}
+
+const reducer = (state = initialState, action) => {
+    switch (action.type) {
+        case BUY_CAKE:
+            return {
+                ...state, // First create a copy before modifying
+                numOfCakes: state.numOfCakes - 1
+            }
+        default:
+            return state
+    }
+}
