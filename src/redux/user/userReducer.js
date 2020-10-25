@@ -1,5 +1,4 @@
 import {FETCH_USERS_FAILURE, FETCH_USERS_REQUEST, FETCH_USERS_SUCCESS} from "./userTypes";
-import iceCreamReducer from "../iceCream/iceCreamReducer";
 
 const initialState = {
     loading: false,
